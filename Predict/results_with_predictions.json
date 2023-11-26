@@ -1,0 +1,60 @@
+{
+    "product": [
+        {
+            "product_name": "lót",
+            "predicted_quantity": 50.3849357005447,
+            "suppliers": [],
+            "color": "rgba(48, 3, 52, 0.2)",
+            "month": "2023-08"
+        },
+        {
+            "product_name": "Kem dưỡng ẩm",
+            "predicted_quantity": 50.3849357005447,
+            "suppliers": [],
+            "color": "rgba(228, 11, 251, 0.2)",
+            "month": "2023-10"
+        },
+        {
+            "product_name": "người sáng",
+            "predicted_quantity": 50.3849357005447,
+            "suppliers": [],
+            "color": "rgba(183, 162, 18, 0.2)",
+            "month": "2023-06"
+        },
+        {
+            "product_name": "đỏ mặt",
+            "predicted_quantity": 50.3849357005447,
+            "suppliers": [],
+            "color": "rgba(23, 68, 119, 0.2)",
+            "month": "2023-03"
+        },
+        {
+            "product_name": "làm móng",
+            "predicted_quantity": 50.3849357005447,
+            "suppliers": [],
+            "color": "rgba(251, 224, 105, 0.2)",
+            "month": "2023-05"
+        },
+        {
+            "product_name": "người sáng",
+            "predicted_quantity": 50.3849357005447,
+            "suppliers": [],
+            "color": "rgba(104, 33, 198, 0.2)",
+            "month": "2023-02"
+        },
+        {
+            "product_name": "kem mờ vết sạm",
+            "predicted_quantity": 50.3849357005447,
+            "suppliers": [],
+            "color": "rgba(64, 94, 231, 0.2)",
+            "month": "2023-03"
+        },
+        {
+            "product_name": "Kem dưỡng da",
+            "predicted_quantity": 50.3849357005447,
+            "suppliers": [],
+            "color": "rgba(17, 71, 117, 0.2)",
+            "month": "2023-05"
+        }
+    ]
+}
