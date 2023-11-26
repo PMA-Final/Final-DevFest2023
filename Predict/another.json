@@ -1,0 +1,44 @@
+{
+    "abc": [
+        {
+            "product_name": "lót",
+            "month": "2023-08",
+            "sum": 1279.214896066905
+        },
+        {
+            "product_name": "Kem dưỡng ẩm",
+            "month": "2023-10",
+            "sum": 1278.4397163120568
+        },
+        {
+            "product_name": "người sáng",
+            "month": "2023-06",
+            "sum": 919.6985196850394
+        },
+        {
+            "product_name": "đỏ mặt",
+            "month": "2023-03",
+            "sum": 765.5729550478998
+        },
+        {
+            "product_name": "làm móng",
+            "month": "2023-05",
+            "sum": 407.7818448023426
+        },
+        {
+            "product_name": "người sáng",
+            "month": "2023-02",
+            "sum": 915.8793949304987
+        },
+        {
+            "product_name": "kem mờ vết sạm",
+            "month": "2023-03",
+            "sum": 1118.9197312156384
+        },
+        {
+            "product_name": "Kem dưỡng da",
+            "month": "2023-05",
+            "sum": 1525.5694732983013
+        }
+    ]
+}

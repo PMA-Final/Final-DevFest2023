@@ -1,0 +1,60 @@
+{
+    "product": [
+        {
+            "product_name": "làm móng",
+            "predicted_quantity": 25.492618126817128,
+            "suppliers": [],
+            "color": "rgba(247, 213, 165, 0.2)",
+            "month": "2019-03"
+        },
+        {
+            "product_name": "kem chống nắng",
+            "predicted_quantity": 25.492618126817128,
+            "suppliers": [],
+            "color": "rgba(27, 12, 12, 0.2)",
+            "month": "2018-05"
+        },
+        {
+            "product_name": "Kem dưỡng da",
+            "predicted_quantity": 25.492618126817128,
+            "suppliers": [],
+            "color": "rgba(175, 28, 178, 0.2)",
+            "month": "2022-06"
+        },
+        {
+            "product_name": "son bóng",
+            "predicted_quantity": 25.492618126817128,
+            "suppliers": [],
+            "color": "rgba(139, 1, 26, 0.2)",
+            "month": "2020-07"
+        },
+        {
+            "product_name": "Sữa rửa mặt",
+            "predicted_quantity": 25.492618126817128,
+            "suppliers": [],
+            "color": "rgba(128, 2, 15, 0.2)",
+            "month": "2019-11"
+        },
+        {
+            "product_name": "Kem dưỡng da",
+            "predicted_quantity": 25.492618126817128,
+            "suppliers": [],
+            "color": "rgba(146, 43, 28, 0.2)",
+            "month": "2022-02"
+        },
+        {
+            "product_name": "Lớp lót mắt",
+            "predicted_quantity": 25.492618126817128,
+            "suppliers": [],
+            "color": "rgba(87, 200, 37, 0.2)",
+            "month": "2022-03"
+        },
+        {
+            "product_name": "son môi",
+            "predicted_quantity": 25.492618126817128,
+            "suppliers": [],
+            "color": "rgba(227, 252, 184, 0.2)",
+            "month": "2023-02"
+        }
+    ]
+}

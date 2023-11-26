@@ -1,0 +1,44 @@
+{
+    "abc": [
+        {
+            "product_name": "làm móng",
+            "month": "2019-03",
+            "sum": 210.8526547282438
+        },
+        {
+            "product_name": "kem chống nắng",
+            "month": "2018-05",
+            "sum": 526.1381232579746
+        },
+        {
+            "product_name": "Kem dưỡng da",
+            "month": "2022-06",
+            "sum": 788.7630827783064
+        },
+        {
+            "product_name": "son bóng",
+            "month": "2020-07",
+            "sum": 314.83963963963964
+        },
+        {
+            "product_name": "Sữa rửa mặt",
+            "month": "2019-11",
+            "sum": 655.9109438695516
+        },
+        {
+            "product_name": "Kem dưỡng da",
+            "month": "2022-02",
+            "sum": 786.93724420191
+        },
+        {
+            "product_name": "Lớp lót mắt",
+            "month": "2022-03",
+            "sum": 314.5798889574337
+        },
+        {
+            "product_name": "son môi",
+            "month": "2023-02",
+            "sum": 392.9939209726444
+        }
+    ]
+}
